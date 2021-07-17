@@ -1,3 +1,3 @@
 #!/bin/bash
-echo "enter the key word"
+echo -e "enter the key word"
 
